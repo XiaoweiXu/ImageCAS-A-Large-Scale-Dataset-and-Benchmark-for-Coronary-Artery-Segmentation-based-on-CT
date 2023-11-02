@@ -7,4 +7,6 @@ An official data split is also prepared for fair comparison.
 
 **HIGHLIGHT** 20230417: You may find some folders ending with (1), these are duplicated cases. We have updated the dataset to discard these duplicate cases. Please send me emails about this issue to get the link of the latest dataset.
 
+**HIGHLIGHT** 20231101: We have deployed the dataset on Kaggle https://www.kaggle.com/xiaoweixumedicalai/datasets?scroll=true!
+
 Please send emails to me xiao.wei.xu@foxmail.com for the link and the password to download the dataset and the benchmark.
